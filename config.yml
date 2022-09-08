@@ -1,0 +1,8 @@
+development:
+  password: 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
+  theme_id: "130009366774"
+  store: mtkstore1.myshopify.com
+  ignore_files:
+    - "*.gif"
+    - "*.jpg"
+    - config/settings_data.json
